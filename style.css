@@ -1,0 +1,79 @@
+body {
+    /* width:96%; */
+}
+
+.field {
+  width: 30px;
+  height: 30px;
+  background-color: red;
+  margin: 2px;
+  position: relative;
+}
+
+.hide {
+  cursor: pointer;
+  position:absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+  width: 30px;
+  height: 30px;
+  background-color: blue;
+  margin: 0;
+}
+
+.hide:hover {
+  background-color: #3399ff;
+}
+
+.elem {
+  cursor: default;
+  padding-top: 5px;
+  color: white;
+}
+
+#game {
+  width: 306px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.start {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+  width: 302px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.start:hover {
+  background-color: #ff3939;
+}
+
+.start p {
+  padding-top: 15px;
+  padding-left: 80px;
+}
+
+.startwindow {
+  width: 302px;
+  height: 302px;
+  margin: 2px;
+  background-color: red;
+}
+
+.startwindow img {
+  width: 140px;
+  margin-left: 80px;
+}
+
+h1 {
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin-left: 100px;
+}
