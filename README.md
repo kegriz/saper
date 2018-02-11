@@ -1,4 +1,6 @@
-"# saper"
+# Saper
+Easy javascript game
 
-29.01.2018
-First version written on the phone
+<a target="_blank" href="http://rafalrudko.com/code/saper/">click</a>
+
+29.01.2018: Uploaded first version written on the phone in 2017
